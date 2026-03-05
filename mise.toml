@@ -1,5 +1,5 @@
 [env]
-_.source = "{{exec(command='sops.exe --decrypt .enc.env')}}"
+_.file = ".env.json"
 
 [tasks.test]
 description = "Run tests"
