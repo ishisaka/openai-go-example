@@ -1,5 +1,5 @@
 [env]
-_.file = { path = ".env", redact = true }
+_.source = "{{exec(command='sops.exe --decrypt .enc.env')}}"
 
 [tasks.test]
 description = "Run tests"
