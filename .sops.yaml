@@ -3,4 +3,5 @@ creation_rules:
   - path_regex: \.env\.json$
     age: >-
       age1wta9787ayed5auqd8u0ty9xv3apqkf7553nxjq939pcl2d3p5u9stvv2g9,
-      age1nfjhtyfr0p8a0d9mxpc7jpmkp66fsxdchhkfc9z8a9awfcsxtaus8quhs2
+      age1nfjhtyfr0p8a0d9mxpc7jpmkp66fsxdchhkfc9z8a9awfcsxtaus8quhs2,
+      age1vw4qehc2qq45ldraej882ghm6e7yxu6n4ylu5ngme85q3qe5l3fq8y8ju8
